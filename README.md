@@ -1,4 +1,4 @@
-<Header><img width="100%"; height ="300px" src="https://media1.tenor.com/m/xvKqraoQHREAAAAC/sky.gif"></Header>
+
 <h1 align="center">Hi 👋, I'm Jaskaran</h1>
 <h3 align="center">A passionate Java developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/fcz3MYIy2t0AAAAi/camera-shoot.gif">
