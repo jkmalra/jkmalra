@@ -36,4 +36,4 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaskaranmain&show_icons=true&locale=en&layout=compact" alt="jaskaranmain" /></p>
 <br>
 <hr>
-<p  align="center"><br><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaskaranmain&" alt="jaskaranmain" /></p>
+
