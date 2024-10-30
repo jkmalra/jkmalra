@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Jaskaran</h1>
+<h1 align="center">Hi 👋, I'm Jas</h1>
 <h3 align="center">A passionate Java developer/Backend Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/fcz3MYIy2t0AAAAi/camera-shoot.gif">
 
