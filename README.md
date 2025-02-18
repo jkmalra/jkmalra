@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/@2003jaskaran" target="blank"><img src="https://img.shields.io/twitter/follow/@2003jaskaran?logo=twitter&style=for-the-badge" alt="@2003jaskaran" /></a> </p>
 
-- 🔭 I’m currently working on **Chatting application**
+- 🔭 I’m currently working on **Serverless Email/SMS Application**
 
-- 🌱 I’m currently learning **Spring-Boot, Microservices**
+- 🌱 I’m currently learning **Spring-Boot,Cloud development**
 
-- 👯 I’m looking to collaborate on **Development projects**
+- 👯 I’m looking to collaborate on **Open Sourse Projects**
 
-- 💬 Ask me about **Java, Spring, Databases**
+- 💬 Ask me about **Java, Spring, Databases, Cloud**
 
 - 📫 How to reach me **jaskaranmain@gmail.com**
 
