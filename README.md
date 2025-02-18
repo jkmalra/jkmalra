@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Jas</h1>
-<h3 align="center">A passionate Java developer/Backend Developer</h3>
+<h3 align="center">A passionate Cloud developer/Backend Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/fcz3MYIy2t0AAAAi/camera-shoot.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaskaranmain&label=Profile%20views&color=0e75b6&style=flat" alt="jaskaranmain" /> </p>
