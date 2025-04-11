@@ -4,7 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaskaranmain&label=Profile%20views&color=0e75b6&style=flat" alt="jaskaranmain" /> </p>
 
-<p align="left"><a href="www.linkedin.com/in/jaskaran-s-01368b24b" target=""><img src="https://img.shields.io/twitter/follow/@2003jaskaran?logo=twitter&style=for-the-badge" alt=""/></a></p>
+<p align="left">
+  <a href="https://www.linkedin.com/in/jaskaran-s-01368b24b/" target="_blank">
+    <img src="https://img.shields.io/badge/Connect%20with%20me-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="Connect with me on LinkedIn" />
+  </a>
+</p>
 
 - 🔭 I’m currently working on **Serverless Email/SMS Application**
 
