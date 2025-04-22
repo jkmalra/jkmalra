@@ -26,7 +26,8 @@
 <p align="left">
 <a href="https://twitter.com/@2003jaskaran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@2003jaskaran" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jaskaran singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jaskaran singh" height="30" width="40" /></a>
-<a href="https://instagram.com/33_jas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="33_jas" height="30" width="40" /></a>
+<a href="https://instagram.com/_.callmejas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="33_jas" height="30" width="40" /></a>
+<a href="https://hashnode.com/@Jaskaran03" target="blank"><img align="center" src="https://drive.google.com/file/d/1UnN7rTXBrFYfG0HxnMxqKZP6Gg0-riYf/view?usp=drive_link" alt="Hashnode/Jaskaran03" height="30" width="40" /></a>
 </p>
 <hr>
 <h3 align="left">Languages and Tools:</h3>
