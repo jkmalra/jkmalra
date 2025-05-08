@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **Java, Spring, Databases, Cloud**
 
-- 📫 How to reach me **jaskaranbusiness03@gmail.com**
+- 📫 How to reach me **jaskaranmain@gmail.com**
 
 - 🎅🏻 <a href="https://jaskaran-s.netlify.app">My Portfolio </a>
 <hr>
