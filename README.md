@@ -21,6 +21,8 @@
 - 📫 How to reach me **jaskaranmain@gmail.com**
 
 - 🎅🏻 <a href="https://jaskaran-s.netlify.app">My Portfolio </a>
+
+- 📝 I write blogs here: [berown.hashnode.dev](https://berown.hashnode.dev) 
 <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
