@@ -29,7 +29,7 @@
 <a href="https://twitter.com/@2003jaskaran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@2003jaskaran" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/jaskaran-s-01368b24b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jaskaran singh" height="30" width="40" /></a>
 <a href="https://www.instagram.com/notjaskarxn/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="33_jas" height="30" width="40" /></a>
-<a href="https://berown.hashnode.dev/" target="blank"><img align="center" src="https://github.com/user-attachments/assets/5e3d0d55-2401-4a72-92d7-783b9737d29b" alt="Hashnode/Jaskaran03" height="30" width="30" /></a>
+<a href="https://jkmalra.hashnode.dev/" target="blank"><img align="center" src="https://github.com/user-attachments/assets/5e3d0d55-2401-4a72-92d7-783b9737d29b" alt="Hashnode/Jaskaran03" height="30" width="30" /></a>
 </p>
 <hr>
 
