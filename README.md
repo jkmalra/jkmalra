@@ -22,7 +22,7 @@
 
 - 🎅🏻 <a href="https://jkmalra.github.io/">My Portfolio </a>
 
-- 📝 I write blogs here: [berown.hashnode.dev](https://jkmalra.hashnode.dev/) 
+- 📝 I write blogs here: [jkmalra.hashnode.dev](https://jkmalra.hashnode.dev/) 
 <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
