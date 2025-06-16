@@ -10,17 +10,16 @@
   </a>
 </p>
 
-
 - 🔭 I’m currently working on **Loopzy & Serverless Email**
 
 - 🌱 I’m currently learning **Backend / Cloud development**
 
-- 🧠 I’m looking to collaborate on **Open Sourse Projects**
-- Contributed to the [First Contributions] [![GitHub PRs](https://img.shields.io/badge/First%20PR-Merged-brightgreen?style=flat&logo=github)](https://github.com/firstcontributions/first-contributions/pull/#99148) project by participating in collaborative Git workflows and understanding real-world pull request processes.
+- 🧠 I’m looking to collaborate on ***Open Source Projects***
+- Contributed to the [First Contributions] [![GitHub PRs](https://img.shields.io/badge/First%20PR-Merged-brightgreen?style=flat&logo=github)](https://github.com/firstcontributions/first-contributions/pull/#99148) by learning Git workflows and making my first real-world pull request processes.
 
-- 🎅🏻 <a href="https://jkmalra.github.io/">My Portfolio </a>
+- 🎓 Check out my portfolio: ***[J.K. Malra](https://jkmalra.github.io/)***
 
-- 📝 I write blogs here: [jkmalra.hashnode.dev](https://jkmalra.hashnode.dev/)
+- ✍🏻I share technical blogs on ***[Hashnode](https://jkmalra.hashnode.dev)*** and ***[Medium](https://jkmalra.medium.com)*** — covering Java, Spring Boot, Cloud, and Dev insights.
 <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
