@@ -45,6 +45,6 @@
 <hr>
 <h3 align="left">Languages:</h3>
 <p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaskaranmain&show_icons=true&locale=en&layout=compact" alt="jaskaranmain" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jkmalra&show_icons=true&locale=en&layout=compact" alt="jkmalra" /></p>
 <br>
 
