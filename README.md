@@ -15,7 +15,7 @@
 - 🌱 I’m currently learning **Backend / Cloud development**
 
 - 🧠 I’m looking to collaborate on ***Open Source Projects***
-- Contributed to the **First Contributions** [![GitHub PRs](https://img.shields.io/badge/First%20PR-Merged-brightgreen?style=flat&logo=github)](https://github.com/firstcontributions/first-contributions/pull/#99148) by learning Git workflows and making my first real-world pull request processes.
+<!-- - Contributed to the **First Contributions** [![GitHub PRs](https://img.shields.io/badge/First%20PR-Merged-brightgreen?style=flat&logo=github)](https://github.com/firstcontributions/first-contributions/pull/#99148) by learning Git workflows and making my first real-world pull request processes. -->
 
 - 🎓 Check out my portfolio: ***[J.K. Malra](https://jkmalra.github.io/)***
 
