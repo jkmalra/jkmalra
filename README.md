@@ -27,7 +27,7 @@
 [![My Skills](https://skillicons.dev/icons?i=py,fastapi,js,linux,java,mongodb,postgres,aws,docker,postman)](https://skillicons.dev)
 
 <h3 align="left">GITHUB STATS:</h3>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jkmalra&show_icons=true&locale=en&layout=compact" alt="jkmalra" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jkmalra&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="jkmalra" />
 
 <h3 align="left">CONNECT WITH ME:</h3>
 <p align="left">
