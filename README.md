@@ -21,7 +21,7 @@
 
 - ✍🏻I share technical blogs on ***[Hashnode](https://jkmalra.hashnode.dev)*** and ***[Medium](https://jkmalra.medium.com)*** — covering Backend, Cloud, and Dev insights.
 
-
+<br>
 <h3 align="left">STACK:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=py,fastapi,js,linux,java,mongodb,postgres,aws,docker,postman)](https://skillicons.dev)
