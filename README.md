@@ -40,4 +40,4 @@
 
 <p align="center">• • •</p>
 
-<a href="https://buymeacoffee.com/Jaskaran01" target="_blank"><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee" /></a>
+<a href="https://buymeacoffee.com/Jaskaran01" target="_blank"><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-pink.png" height="50" width="210" alt="Buy Me a Coffee" /></a>
