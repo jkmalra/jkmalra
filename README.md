@@ -1,5 +1,6 @@
-<h1 align="center">Hi👋🏻, I'm Jaskaran</h1>
-<h3 align="center">A passionate Cloud developer/Backend Developer</h3>
+<h1 align="center">👋🏻Hi, I'm Jaskaran</h1>
+<h3 align="center">Cloud & Backend Developer</h3>
+<!-- <h3 align="center">Building scalable APIs, robust architectures & production-ready systems</h3> -->
 <img align="right" alt="Coding" width="400" src="https://github.com/user-attachments/assets/0f95019d-da86-4662-a6e5-04dc4bcba5dd">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaskaranmain&label=Profile%20views&color=000000&style=flat-square" alt="jaskaranmain" /> </p>
@@ -40,6 +41,11 @@
 <h3 align="left">GITHUB STATS:</h3>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jkmalra&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="jkmalra" />
 
-<p align="center">• • •</p>
+<h3 align="left">LEETCODE STATS:</h3>
 
-<a href="https://buymeacoffee.com/Jaskaran01" target="_blank"><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-pink.png" height="50" width="210" alt="Buy Me a Coffee" /></a>
+![LeetCode Stats](https://leetcard.jacoblin.cool/LeetJaskaran?theme=transparent&font=Inter&ext=heatmap)
+
+<br>
+<a href="https://buymeacoffee.com/Jaskaran01" target="_blank"><img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-pink.png" height="50" width="210" alt="Buy Me a Coffee" /></a>
+<br>
+<p align="center">• • •</p>
