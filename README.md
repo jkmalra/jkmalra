@@ -10,22 +10,13 @@
 
 ---
 
-## 🌐 Connect
-**[Portfolio](https://jkmalra.github.io/)** |
-**[LinkedIn](https://www.linkedin.com/in/jaskaran-s-01368b24b/)** |
-**[Twitter](https://x.com/JK_Malra)** |
-**[LeetCode](https://leetcode.com/u/LeetJaskaran/)** |
-**[Hashnode](https://jkmalra.hashnode.dev)**
-
----
-
-## Tech Stack
+## ⚙️ Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=py,fastapi,java,js,linux,postgres,mysql,mongodb,aws,docker,postman)](https://skillicons.dev)
 
 ### 💻 Backend / APIs
 - FastAPI, Python, Java
-- Async APIs, Authentication (JWT / OAuth2)  
-- PostgreSQL, MySQL, MongoDB  
+- Async APIs, Authentication (JWT / OAuth2)
+- PostgreSQL, MySQL, MongoDB
 
 ### ☁️ Cloud & DevOps
 - AWS, Oracle Cloud Infrastructure
@@ -38,16 +29,20 @@
 
 ---
 
-<h3 align="left">GITHUB STATS:</h3>
+## 🌐 Connect
+**[Portfolio](https://jkmalra.github.io/)** |
+**[LinkedIn](https://www.linkedin.com/in/jaskaran-s-01368b24b/)** |
+**[Twitter](https://x.com/JK_Malra)** |
+**[LeetCode](https://leetcode.com/u/LeetJaskaran/)** |
+**[Hashnode](https://jkmalra.hashnode.dev)**
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jkmalra&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="jkmalra" />
+---
 
-<h3 align="left">LEETCODE STATS:</h3>
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/LeetJaskaran?theme=transparent&font=Inter&ext=heatmap)
+| GITHUB STATS | LEETCODE STATS |
+|----------------|--------------|
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jkmalra&layout=compact&theme=tokyonight)  |  ![LeetCode Stats](https://leetcard.jacoblin.cool/LeetJaskaran?theme=transparent&font=Inter&ext=heatmap) |
 
 <p align="center">• • •</p>
-
 
 <!-- <img align="right" alt="Coding" width="400" src="https://github.com/user-attachments/assets/0f95019d-da86-4662-a6e5-04dc4bcba5dd"> -->
 
