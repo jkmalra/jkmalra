@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaskaranmain&label=Profile%20views&color=000000&style=flat-square" alt="jkmalra" /> </p>
 
-<h1 align="left">👋🏻Hi, I'm Jaskaran</h1>
+<h1 align="left">Hi, I'm Jaskaran</h1>
 <h3 align="left">Backend & Cloud Engineer focused on building clean, reliable, and real-world systems.</h3>
 
 ## 🛠️ What I'm Working On
