@@ -36,11 +36,12 @@
 **[LeetCode](https://leetcode.com/u/LeetJaskaran/)** |
 **[Hashnode](https://jkmalra.hashnode.dev)**
 
+<!--
 ---
 
 | GITHUB STATS | LEETCODE STATS |
 |----------------|--------------|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jkmalra&layout=compact&theme=tokyonight)  |  ![LeetCode Stats](https://leetcard.jacoblin.cool/LeetJaskaran?theme=transparent&font=Inter&ext=heatmap) |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jkmalra&layout=compact&theme=tokyonight)  |  ![LeetCode Stats](https://leetcard.jacoblin.cool/LeetJaskaran?theme=transparent&font=Inter&ext=heatmap) | -->
 
 <p align="center">• • •</p>
 
