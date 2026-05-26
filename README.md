@@ -11,7 +11,7 @@
 ---
 
 ## ⚙️ Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=py,fastapi,java,js,htmx,linux,postgres,mongodb,aws,docker,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ai,py,fastapi,java,go,js,react,vite,htmx,linux,postgres,mongodb,aws,docker,redis,postman)](https://skillicons.dev)
 
 ### 💻 Backend / APIs
 - FastAPI, Python, Java
