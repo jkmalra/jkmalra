@@ -33,6 +33,7 @@
 **[LinkedIn](https://www.linkedin.com/in/jaskaran-s-01368b24b/)** |
 **[Twitter](https://x.com/JK_Malra)** |
 **[LeetCode](https://leetcode.com/u/LeetJaskaran/)** |
+**[Substack]()**
 **[Hashnode](https://jkmalra.hashnode.dev)**
 
 <!--
